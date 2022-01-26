@@ -37,7 +37,7 @@ Before running the API tests for the first time the following steps need to be f
 
 
 
-## Pro & Corns For this framework according to me 
+## Pros & Corns For this framework according to me 
 
 Pro..
 
