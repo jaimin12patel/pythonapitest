@@ -1,0 +1,6 @@
+{
+    "client_id": "61ede2f9071b100014d7e6fa",
+    "secret": "eef9f69f154a357fb70d0092d733c8",
+    "institution_id": "001",
+    "initial_products": ["auth"]
+}
